@@ -8,7 +8,11 @@ if(a%2==0)
 {
 cout<<"number is odd";
 }
-else
+else 
 {
 cout<<"number is even";
+}
+else if(a==0)
+{
+cout<<"neither even nor odd";
 }
